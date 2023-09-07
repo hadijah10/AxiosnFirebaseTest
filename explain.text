@@ -1,0 +1,1 @@
+run npm config set legacy-peer-deps true when encountering firebase install errors.rerun firbase install command to install
