@@ -96,3 +96,7 @@ button:hover{
     cursor: not-allowed;
   }
 }
+img{
+  width:3em;
+  height:4em;
+}
